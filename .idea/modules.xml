@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesson_011/code/CompareString/CompareString.iml" filepath="$PROJECT_DIR$/lesson_011/code/CompareString/CompareString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_007/code/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/lesson_007/code/StringClass/StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" filepath="$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ait.iml" filepath="$PROJECT_DIR$/ait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_009/code/code.iml" filepath="$PROJECT_DIR$/lesson_009/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_006/code/homework/homework.iml" filepath="$PROJECT_DIR$/lesson_006/code/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_008/code/homework_007_01/homework_007_01.iml" filepath="$PROJECT_DIR$/lesson_008/code/homework_007_01/homework_007_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" filepath="$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" />
+    </modules>
+  </component>
+</project>
