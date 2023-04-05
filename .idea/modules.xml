@@ -3,13 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lesson_011/code/CompareString/CompareString.iml" filepath="$PROJECT_DIR$/lesson_011/code/CompareString/CompareString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_013/code/Hausaufgaben_013/Hausaufgaben_013.iml" filepath="$PROJECT_DIR$/lesson_013/code/Hausaufgaben_013/Hausaufgaben_013.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_007/code/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/lesson_007/code/StringClass/StringClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" filepath="$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_012/code/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/lesson_012/code/SwitchCase/SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/ait.iml" filepath="$PROJECT_DIR$/ait.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_009/code/code.iml" filepath="$PROJECT_DIR$/lesson_009/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_015/code/hackerRankTeam/hackerRankTeam.iml" filepath="$PROJECT_DIR$/lesson_015/code/hackerRankTeam/hackerRankTeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_012/code/homeWork/homeWork.iml" filepath="$PROJECT_DIR$/lesson_012/code/homeWork/homeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_015/code/homeWork_015/homeWork_015.iml" filepath="$PROJECT_DIR$/lesson_015/code/homeWork_015/homeWork_015.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_006/code/homework/homework.iml" filepath="$PROJECT_DIR$/lesson_006/code/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_008/code/homework_007_01/homework_007_01.iml" filepath="$PROJECT_DIR$/lesson_008/code/homework_007_01/homework_007_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" filepath="$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_011/code/homework_011/homework_011.iml" filepath="$PROJECT_DIR$/lesson_011/code/homework_011/homework_011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_014/code/homework_014/homework_014.iml" filepath="$PROJECT_DIR$/lesson_014/code/homework_014/homework_014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_013/code/klassenArbeit_013/klassenArbeit_013.iml" filepath="$PROJECT_DIR$/lesson_013/code/klassenArbeit_013/klassenArbeit_013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_016/code/practice/practice.iml" filepath="$PROJECT_DIR$/lesson_016/code/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_016/code/practiceLoop/practiceLoop.iml" filepath="$PROJECT_DIR$/lesson_016/code/practiceLoop/practiceLoop.iml" />
     </modules>
   </component>
 </project>
