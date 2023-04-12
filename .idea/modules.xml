@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" filepath="$PROJECT_DIR$/lesson_007/code/StringPraktikum/StringPraktikum.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_012/code/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/lesson_012/code/SwitchCase/SwitchCase.iml" />
       <module fileurl="file://$PROJECT_DIR$/ait.iml" filepath="$PROJECT_DIR$/ait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-bot/backend_code/backend_code.iml" filepath="$PROJECT_DIR$/chat-bot/backend_code/backend_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_009/code/code.iml" filepath="$PROJECT_DIR$/lesson_009/code/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_015/code/hackerRankTeam/hackerRankTeam.iml" filepath="$PROJECT_DIR$/lesson_015/code/hackerRankTeam/hackerRankTeam.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_012/code/homeWork/homeWork.iml" filepath="$PROJECT_DIR$/lesson_012/code/homeWork/homeWork.iml" />
@@ -17,9 +18,14 @@
       <module fileurl="file://$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" filepath="$PROJECT_DIR$/lesson_010/code/homework_010/homework_010.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_011/code/homework_011/homework_011.iml" filepath="$PROJECT_DIR$/lesson_011/code/homework_011/homework_011.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_014/code/homework_014/homework_014.iml" filepath="$PROJECT_DIR$/lesson_014/code/homework_014/homework_014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_018/code/homework_018/homework_018.iml" filepath="$PROJECT_DIR$/lesson_018/code/homework_018/homework_018.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_013/code/klassenArbeit_013/klassenArbeit_013.iml" filepath="$PROJECT_DIR$/lesson_013/code/klassenArbeit_013/klassenArbeit_013.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_016/code/practice/practice.iml" filepath="$PROJECT_DIR$/lesson_016/code/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_016/code/practiceLoop/practiceLoop.iml" filepath="$PROJECT_DIR$/lesson_016/code/practiceLoop/practiceLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_019/code/practice_019/practice_019.iml" filepath="$PROJECT_DIR$/lesson_019/code/practice_019/practice_019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_018/code/practice_method/practice_method.iml" filepath="$PROJECT_DIR$/lesson_018/code/practice_method/practice_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_017/code/practice_roulette/practice_roulette.iml" filepath="$PROJECT_DIR$/lesson_017/code/practice_roulette/practice_roulette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_020/code/try_ex/try_ex.iml" filepath="$PROJECT_DIR$/lesson_020/code/try_ex/try_ex.iml" />
     </modules>
   </component>
 </project>
