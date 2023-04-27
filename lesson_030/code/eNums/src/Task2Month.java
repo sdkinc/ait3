@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Task2MonthsEnum {
+public class Task2Month {
 
     // enum - перечисляемый класс
     // enum нужен нам, если ещё до начала работы программы мы точно знаем список всех
