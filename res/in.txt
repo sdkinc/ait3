@@ -1,1 +1,6 @@
-4095
+5
+McCain 10
+McCain 5
+Obama 9
+Obama 8
+McCain 1
